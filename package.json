@@ -1,0 +1,22 @@
+{
+  "name": "gerenciador-de-crushes",
+  "version": "1.0.0",
+  "description": "API para gerenciar os contatinhos",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "C:/Users/victo/Documents/MeusProjetos/gerenciador-de-crushes/node_modules/.bin/ts-node ./server/server.ts"
+  },
+  "author": "Victor Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.7",
+    "@types/node": "^14.0.24",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
